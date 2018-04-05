@@ -1,0 +1,8 @@
+
+.logo img, .cvdb-main-nav img {
+    transform: rotate(180deg);
+}
+
+#adminMain, #admin-wrapper {
+    background-color: pink !important;
+}
