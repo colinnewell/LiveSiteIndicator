@@ -1,5 +1,5 @@
 
-.logo img, .cvdb-main-nav img {
+.logo img, .cvdb-main-nav img, .cvl-logo-client {
     transform: rotate(180deg);
 }
 
