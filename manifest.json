@@ -1,7 +1,7 @@
 {
     "name": "Live Site Indicator",
-    "version": "1.0",
-    "description": "Provide an indication when you're visiting the live version of a site",
+    "version": "1.1",
+    "description": "Provide an indication when you're visiting the live version of the CV-Library site",
     "manifest_version": 2,
     "content_scripts": [{
         "matches": ["https://www.cv-library.co.uk/*"],
