@@ -1,10 +1,10 @@
 {
     "name": "Live Site Indicator",
-    "version": "1.1",
-    "description": "Provide an indication when you're visiting the live version of the CV-Library site",
+    "version": "1.2",
+    "description": "Provide an indication when you're visiting the live version of the site",
     "manifest_version": 2,
     "content_scripts": [{
-        "matches": ["https://www.cv-library.co.uk/*"],
+        "matches": ["https://www.bbc.co.uk/news/*"],
         "css": ["banner.css"]
     }]
 }

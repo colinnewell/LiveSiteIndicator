@@ -1,8 +1,3 @@
-
-.logo img, .cvdb-main-nav img, .cvl-logo-client {
-    transform: rotate(180deg);
-}
-
-#adminMain, #admin-wrapper {
-    background-color: pink !important;
+#orb-modules > header > div.nw-o-news-branding {
+    background-color: blue;
 }
